@@ -1,10 +1,9 @@
 ¡Hola, soy Ángel 👋!  
 ### Soy un apasionado Desarrollador de Software que disfruta pasar horas codificando  
-- 💡 Tengo un espíritu emprendedor y me encanta aprender nuevas tecnologías.  
-- 👨🏻‍💻 Actualmente estoy trabajando en **Clima Safe**.  
- 
-- ♟ Dato curioso: Me gusta jugar ajedrez, aunque no soy muy bueno.  
 
+- 💡 Tengo un espíritu emprendedor y me encanta aprender nuevas tecnologías.  
+- 👨🏻‍💻 Actualmente estoy estudiando, en el Instituto Tecnologico de Tizimin.  
+- ♟ Dato curioso: Me gusta jugar ajedrez, aunque no soy muy bueno.  
 
 ### Conéctate conmigo  
 
