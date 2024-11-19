@@ -1,10 +1,10 @@
 ¡Hola, soy Ángel 👋!  
 ### Soy un apasionado Desarrollador de Software que disfruta pasar horas codificando  
 - 💡 Tengo un espíritu emprendedor y me encanta aprender nuevas tecnologías.  
-- 👨🏻‍💻 Actualmente estoy trabajando en **[Nombre de Tu Proyecto]**.  
-- 📚 Comparto mi conocimiento a través de mi plataforma [**Nombre de Tu Plataforma**](https://yourplatform.dev) y mi [**Canal de YouTube**](https://www.youtube.com/yourchannel).  
+- 👨🏻‍💻 Actualmente estoy trabajando en **Clima Safe**.  
+ 
 - ♟ Dato curioso: Me gusta jugar ajedrez, aunque no soy muy bueno.  
-- 🔍 Aprende más sobre mí [**aquí**](https://yourwebsite.dev/about-me).  
+
 
 ### Conéctate conmigo  
 
