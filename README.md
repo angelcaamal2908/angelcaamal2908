@@ -1,5 +1,5 @@
 ¡Hola, soy Ángel 👋!  
-### Soy un apasionado Desarrollador de Software que disfruta pasar horas codificando  
+###
 
 - 💡 Tengo un espíritu emprendedor y me encanta aprender nuevas tecnologías.  
 - 👨🏻‍💻 Actualmente estoy estudiando, en el Instituto Tecnologico de Tizimin.  
